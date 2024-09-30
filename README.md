@@ -25,13 +25,13 @@ text-align: center;
 }
 nava{
 text-decoration: none;
-color: #4CAF50;
+color: #f7b7a0;
  margin: 0 15px; 
 font-weight: bold;
 }
 main {
 padding: 20px;
-background-color: #fff; 
+background-color: #f7b7a0; 
 border-radius: 8px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
