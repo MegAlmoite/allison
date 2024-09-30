@@ -11,7 +11,7 @@ font-family: Times New Roman-serif;
 background-color: #f4f4f9; 
 margin: 0;
 padding: 20px;
- color: #333;
+ color: #f7b7a0;
 }
 header {
 background-color: #e695d6;
