@@ -15,7 +15,7 @@ padding: 20px;
 }
 header {
 background-color: #e695d6;
-color: white;
+color: pink;
 padding: 10px 0; 
 text-align: center;
 }
